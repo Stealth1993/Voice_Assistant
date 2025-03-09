@@ -5,7 +5,7 @@ Play YT video, ask the time, search wikipedia and listen to the jokes!
 
 Have fun learning!
 
-importtant libraries to install:
+important libraries to install:
 ---------------------------------
 pip install SpeechRecognition
 pip install pywhatkit
